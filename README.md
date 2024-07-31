@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @GaliAshok1
 
 - 👀 I’m interested in software development and new technologies.
-- 🌱 I’m currently learning advanced topics in Machine Learing and Cloud etc..
+- 🌱 I’m currently learning advanced topics in Machine Learing and Cloud computing etc..
 - 💞️ I’m looking to collaborate on open-source projects and innovative solutions.
 - 📫 How to reach me: [galiashok1200@gmail.com]
 - 😄 Pronouns:He/Him
@@ -34,8 +34,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![API](https://img.shields.io/badge/-API-0A73E2?style=flat&logo=api&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-00796D?style=flat&logo=api&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-F76935?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 
 
