@@ -34,5 +34,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![API](https://img.shields.io/badge/-API-0A73E2?style=flat&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-F76935?style=flat&logo=postman&logoColor=white)
+
 
 
